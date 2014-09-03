@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {background-color:#BFBFBF; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;}
+  
+#shapka {
+    margin: 0 auto 0 auto;
+    text-align: center;
+    border-style: solid;
+    width: 50%;
+    height: 100%;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    border-width: 1px
+}
+
